@@ -10,4 +10,4 @@ This repository hosts the source code for my personal engineering portfolio, dep
 ## 🚀 Key Architectural Showcases
 - **Distributed API Gateway:** Features Redis-backed token bucket rate limiting designed to handle 10,000+ requests/minute[cite: 1].
 - **Cryptographic Secrets Manager:** Implements RSA 2048-bit key pairs and AES-256 encrypted storage[cite: 1].
-- **Enterprise Identity Dashboard Demo:** A production-grade mock dashboard showcasing secure RBAC and token validation mechanisms[cite: 1].
+- **Enterprise Identity Dashboard Demo:** A production-grade mock dashboard showcasing secure RBAC and token validation mechanisms.
